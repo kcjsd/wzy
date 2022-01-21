@@ -4,7 +4,18 @@
       "title": "热门",
       "list": [
        
-       
+        {
+          "name": "美团红包",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01bXVNGG2C4PZWpj9Jk_!!913168420.png",
+          "url": "",
+          "type": "api://meituanwaimai"
+        },
+        {
+          "name": "饿了么红包",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN012KNmnX2C4PZT5JXdH_!!913168420.png",
+          "url": "1571715733668",
+          "type": "api://taobaohuodongid"
+        },
         {
           "name": "低端影视",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
